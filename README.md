@@ -6,8 +6,8 @@
 
 | Language | Featured Projects |
 |   :---:  |  :--- |
-| <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | [ContractWhistMultiplayerClient](https://github.com/StevenButtifint/contract-whist-multiplayer-client),  [MessageEncryptionTool](https://github.com/StevenButtifint/message-encryption-tool) |
-|  | <img width="35%" src="https://github.com/stevenbuttifint/contract-whist-multiplayer-client/blob/main/res/images/screenshots/offline_demo.gif" /> <img width="25%" src="https://github.com/stevenbuttifint/message-encryption-tool/blob/main/res/screenshots/AES_enc.JPG?raw=true" />|
+| <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | [ContractWhistMultiplayerClient](https://github.com/StevenButtifint/contract-whist-multiplayer-client),  [MessageEncryptionTool](https://github.com/StevenButtifint/message-encryption-tool),  [SteganographyTool](https://github.com/StevenButtifint/steganography-tool) |
+|  | <img width="35%" src="https://github.com/stevenbuttifint/contract-whist-multiplayer-client/blob/main/res/images/screenshots/offline_demo.gif" /> <img width="25%" src="https://github.com/stevenbuttifint/message-encryption-tool/blob/main/res/screenshots/AES_enc.JPG?raw=true" /> <img width="26%" src="https://github.com/stevenbuttifint/steganography-tool/blob/main/res/screenshots/pack.PNG?raw=true" />|
 | <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white/"> | [RouteFindingVisualizer](https://github.com/StevenButtifint/route-finding-visualizer)  |
 | | <img width="40%" src="https://github.com/stevenbuttifint/route-finding-visualizer/blob/main/src/res/demoVideo.gif" />|
 
