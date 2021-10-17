@@ -5,7 +5,7 @@
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create an application that applies my machine learning knowledge :white_square_button:
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create an application that develops my cyber security knowledge :heavy_check_mark:
 ## Programming Language Experience
-
+All projects can be found [here](https://github.com/StevenButtifint?tab=repositories). Below is a table showcasing key projects for each programming language. 
 | Language | Featured Projects |
 |   :---:  |  :--- |
 | <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | [ContractWhistMultiplayerClient](https://github.com/StevenButtifint/contract-whist-multiplayer-client),  [MessageEncryptionTool](https://github.com/StevenButtifint/message-encryption-tool),  [SteganographyTool](https://github.com/StevenButtifint/steganography-tool) |
