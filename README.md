@@ -1,9 +1,13 @@
 ### Hi there, I'm Steven 👋
-### This GitHub account was created in July 2021. By the end of 2021 I aim to:
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create an application or tool in Python:heavy_check_mark:, Java:heavy_check_mark: and C++:white_square_button:
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create a full-stack application :heavy_check_mark:
+### This GitHub account was created in July 2021. 
+#### 2022 Goals:
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create an application that applies my digital forensics knowledge :white_square_button:
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create an application that applies my machine learning knowledge :white_square_button:
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create an application that develops my cyber security knowledge :heavy_check_mark:
+#### 2021 Goals:
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create a route finding application :heavy_check_mark:
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create a full-stack application :heavy_check_mark:
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create an application that applies my encryption security knowledge :heavy_check_mark:
+
 ## Programming Language Experience
 All projects can be found [here](https://github.com/StevenButtifint?tab=repositories). Below is a table showcasing key projects for each programming language. 
 | Language | Featured Projects |
