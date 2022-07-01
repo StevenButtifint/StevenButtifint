@@ -23,10 +23,9 @@ All projects can be found [here](https://github.com/StevenButtifint?tab=reposito
 
 | OS | Fluency  | Description |
 |   :---:  |     :---:      |  :--- |
-| <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> | Expert | Used on a daily basis.    |
-| <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> | Proficient | Used weekly during University labs & personal VM experiments. |
-| <img title="test" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> | Competent | Learnt fundamentals from Linux module on TryHackMe.com & intermittent personal use. |
-| <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/> | Novice | Occasional VM use and learning. *Work in progress* |
+| <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> | Expert | Used extensively on a daily basis.    |
+| <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> | Proficient | Used heavily for VM environments and projects. |
+| <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/> | Novice | Used in VM experimentation and testing. |
 
 
 [comment]: <> (references:)
