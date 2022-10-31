@@ -1,37 +1,32 @@
-### Hi there, I'm Steven 👋
-### This GitHub account was created in July 2021. 
-#### 2022 Goals:
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create an application that applies my digital forensics knowledge :white_square_button:
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create an application that applies my machine learning knowledge :white_square_button:
-#### 2021 Goals:
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create a route finding application :heavy_check_mark:
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create a full-stack application :heavy_check_mark:
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create an application that applies my encryption security knowledge :heavy_check_mark:
+## Hi there, I'm Steven 👋
 
-## Programming Language Experience
-All projects can be found [here](https://github.com/StevenButtifint?tab=repositories). Below is a table showcasing key projects for each programming language. 
-| Language | Featured Projects |
-|   :---:  |  :--- |
-| <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | [ContractWhistMultiplayerClient](https://github.com/StevenButtifint/contract-whist-multiplayer-client),  [MessageEncryptionTool](https://github.com/StevenButtifint/message-encryption-tool),  [SteganographyTool](https://github.com/StevenButtifint/steganography-tool) |
-|  | <img width="45%" src="https://github.com/stevenbuttifint/contract-whist-multiplayer-client/blob/main/res/screenshots/offline_demo.gif" /> <img width="25%" src="https://github.com/stevenbuttifint/message-encryption-tool/blob/main/res/screenshots/AES_enc.JPG?raw=true" /> <img width="26%" src="https://github.com/stevenbuttifint/steganography-tool/blob/main/res/screenshots/pack.PNG?raw=true" />|
-| <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white/"> | [RouteFindingVisualizer](https://github.com/StevenButtifint/route-finding-visualizer)  |
-| | <img width="40%" src="https://github.com/stevenbuttifint/route-finding-visualizer/blob/main/src/res/demoVideo.gif" />|
-| Full Stack | [BugManagementSystem](https://github.com/StevenButtifint/bug-management-system) |
-| <ul><li><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></li><li> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></li><li> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> </li><li> <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' /> </li></ui>| <img width="40%" src="https://github.com/stevenbuttifint/bug-management-system/blob/main/res/demo/BMS_demo.gif" /> |
+This profile serves as an archive for a range of code projects I have created in my free time. <br>
+Independent academic research and development projects are not included.
+Their topic areas include convolutional neural networks, multi-cloud applications and novel view synthesis.
+I am happy to answer questions about them. 
 
-## Operating System Experience
+The table below showcases some key projects I have created. All projects can be found [here](https://github.com/StevenButtifint?tab=repositories).
 
-| OS | Fluency  | Description |
-|   :---:  |     :---:      |  :--- |
-| <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> | Expert | Used extensively on a daily basis.    |
-| <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> | Proficient | Used heavily for VM environments and projects. |
-| <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/> | Novice | Used in VM experimentation and testing. |
+| <span style="display: inline-block; width: 100%"  align="left" > <img alt="Python" align="left" width=14% src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> [Contract Whist Multiplayer & Single-player Game](https://github.com/StevenButtifint/contract-whist-multiplayer-client)  </span> |
+| :---: |
+|<img width=49% src="https://github.com/stevenbuttifint/contract-whist-multiplayer-client/blob/main/res/screenshots/offline_demo.gif?raw=true"/>  <img width=47% src="https://github.com/stevenbuttifint/contract-whist-multiplayer-client/blob/main/res/screenshots/lobby_demo.gif?raw=true"/>|
+| This game was made using Python, Tkinter GUI toolkit and Google Sheets API. It consists of offline and online game modes. There are many customization options such as card design, window resolution, bot count, bot playstyle and starting round size. |
+| <span style="display: inline-block; width: 100%"  align="left" > <img alt="Java" width=8% align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white/">  **[Route Finding Interactive Visualizer](https://github.com/StevenButtifint/route-finding-visualizer)** </span>|
+| <img width=49% src="https://github.com/stevenbuttifint/route-finding-visualizer/blob/main/src/res/demoVideo.gif?raw=true"/> <img width=49% src="https://github.com/stevenbuttifint/route-finding-visualizer/blob/main/src/res/demoVideo2.gif?raw=true"/>|
+| This interactive sandbox visualizer was made in Java using the Lightweight Java Game Library (LWJGL). Visually compare different search algorithms in a sandbox grid. Place walls and checkpoints to make the route task unique and watch the different algorithms go about finding their solutions. |
 
+
+
+### Remaining project area goals for 2022:
+- Create an application that leverages AI to assist with dyslexia.
+- Create an application that applies my digital forensics knowledge.
+- Create an application that applies my machine learning knowledge.
+
+### Completed project area goals:
+:heavy_check_mark: Create a full-stack application. <br>
+:heavy_check_mark: Create a route finding application. <br>
+:heavy_check_mark: Create an application to assist with symbol revision. <br>
+:heavy_check_mark: Create an application that applies my cryptographic algorithms knowledge.
 
 [comment]: <> (references:)
-[comment]: <> (user stats source: https://github.com/anuraghazra/github-readme-stats)
-[comment]: <> (<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenbuttifint&layout=compact&langs_count=9&card_width=400" />)
 [comment]: <> (badges source: https://github.com/Ileriayo/markdown-badges)
-
-[comment]: <> (no align arg allows for new line indent)
-
