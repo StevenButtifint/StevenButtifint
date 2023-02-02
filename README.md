@@ -17,16 +17,17 @@ The table below showcases some key projects I have created. All projects can be 
 
 
 
-### Remaining project area goals for 2022:
-- Create an application that leverages AI to assist with dyslexia.
+### Remaining project area goals for 2023:
 - Create an application that applies my digital forensics knowledge.
 - Create an application that applies my machine learning knowledge.
+- Create an application that applies my microservices and docker knowledge.
 
 ### Completed project area goals:
 :heavy_check_mark: Create a full-stack application. <br>
 :heavy_check_mark: Create a route finding application. <br>
 :heavy_check_mark: Create an application to assist with symbol revision. <br>
-:heavy_check_mark: Create an application that applies my cryptographic algorithms knowledge.
+:heavy_check_mark: Create an application that applies my cryptographic algorithms knowledge. <br>
+:heavy_check_mark: Create an application that leverages AI to assist with dyslexia.
 
 [comment]: <> (references:)
 [comment]: <> (badges source: https://github.com/Ileriayo/markdown-badges)
