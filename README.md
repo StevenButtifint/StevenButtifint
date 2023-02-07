@@ -7,8 +7,11 @@ I am happy to answer questions about them.
 
 The table below showcases some key projects I have created. All projects can be found [here](https://github.com/StevenButtifint?tab=repositories).
 
-| <span style="display: inline-block; width: 100%"  align="left" > <img alt="Python" align="left" width=14% src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> [Contract Whist Multiplayer & Single-player Game](https://github.com/StevenButtifint/contract-whist-multiplayer-client)  </span> |
+| <span style="display: inline-block; width: 100%"  align="left" > <img alt="Python" align="left" width=14% src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> [Dyslexia Assistive Application](https://github.com/StevenButtifint/dyslexia-assistive-application)  </span> |
 | :---: |
+|<img width=49% src="https://github.com/stevenbuttifint/dyslexia-assistive-application/blob/main/res/demo/image_1.JPG?raw=true"/>  <img width=47% src="https://github.com/stevenbuttifint/dyslexia-assistive-application/blob/main/res/demo/demo_1.gif?raw=true"/>|
+| The application consists of a range of tools that are designed for users with dyslexia. The tools assist the user when completing other reading or writing tasks. The application was created using Python with Tkinter for the GUI. |
+| <span style="display: inline-block; width: 100%"  align="left" > <img alt="Python" align="left" width=14% src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> [Contract Whist Multiplayer & Single-player Game](https://github.com/StevenButtifint/contract-whist-multiplayer-client)  </span> |
 |<img width=49% src="https://github.com/stevenbuttifint/contract-whist-multiplayer-client/blob/main/res/screenshots/offline_demo.gif?raw=true"/>  <img width=47% src="https://github.com/stevenbuttifint/contract-whist-multiplayer-client/blob/main/res/screenshots/lobby_demo.gif?raw=true"/>|
 | This game was made using Python, Tkinter GUI toolkit and Google Sheets API. It consists of offline and online game modes. There are many customization options such as card design, window resolution, bot count, bot playstyle and starting round size. |
 | <span style="display: inline-block; width: 100%"  align="left" > <img alt="Java" width=8% align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white/">  **[Route Finding Interactive Visualizer](https://github.com/StevenButtifint/route-finding-visualizer)** </span>|
