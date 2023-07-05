@@ -1,9 +1,8 @@
-## Hi there, I'm Steven 👋
+## Hi there 👋
 
-This profile serves as an archive for a range of code projects I have created in my free time. <br>
-Independent academic research and development projects are not included.
-Their topic areas include convolutional neural networks, multi-cloud applications and novel view synthesis.
-I am happy to answer questions about them. 
+- ☀️ This profile showcases an array of personal code projects I've created in my free time ️.
+- 💬 Academic projects are not included but I am happy to answer questions about them. <br>&emsp;&emsp;&emsp; <i>Their topic areas include convolutional neural networks, computer vision, multi-cloud applications and novel view synthesis. </i>
+
 
 The table below showcases some key projects I have created. All projects can be found [here](https://github.com/StevenButtifint?tab=repositories).
 
@@ -17,7 +16,6 @@ The table below showcases some key projects I have created. All projects can be 
 | <span style="display: inline-block; width: 100%"  align="left" > <img alt="Java" width=8% align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white/">  **[Route Finding Interactive Visualizer](https://github.com/StevenButtifint/route-finding-visualizer)** </span>|
 | <img width=49% src="https://github.com/stevenbuttifint/route-finding-visualizer/blob/main/src/res/demoVideo.gif?raw=true"/> <img width=49% src="https://github.com/stevenbuttifint/route-finding-visualizer/blob/main/src/res/demoVideo2.gif?raw=true"/>|
 | This interactive sandbox visualizer was made in Java using the Lightweight Java Game Library (LWJGL). Visually compare different search algorithms in a sandbox grid. Place walls and checkpoints to make the route task unique and watch the different algorithms go about finding their solutions. |
-
 
 
 ### Remaining project area goals for 2023:
