@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - ☀️ This profile showcases an array of personal code projects I've created in my free time ️.
-- 💬 Academic projects are not included but I am happy to answer questions about them. <br>&emsp;&emsp;&emsp; <i>Their topic areas include convolutional neural networks, computer vision, multi-cloud applications and novel view synthesis. </i>
+- 💬 <u>___Academic projects are not included___</u> but I am happy to answer questions about them. <br>&emsp;&emsp;&emsp; <i>Their topic areas include convolutional neural networks, computer vision, multi-cloud applications and novel view synthesis. </i>
 
 
 The table below showcases some key projects I have created. All projects can be found [here](https://github.com/StevenButtifint?tab=repositories).
