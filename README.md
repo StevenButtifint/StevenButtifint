@@ -3,7 +3,7 @@
 - ☀️ This profile showcases an array of personal code projects I have created in my free time ️.
 - 💬 <ins><b>Academic projects are not included</b></ins> but I am happy to answer questions about them. <br>&emsp; <i>Their topic areas include convolutional neural networks, computer vision, multi-cloud applications and novel view synthesis. </i>
 
-The table below showcases 6 key projects I have created. All projects can be found [here](https://github.com/StevenButtifint?tab=repositories).
+The table below showcases key projects I have designed and created. All projects can be found [here](https://github.com/StevenButtifint?tab=repositories).
 
 <table>
   <tr>
@@ -21,9 +21,9 @@ The table below showcases 6 key projects I have created. All projects can be fou
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">This application provides data cleaning and analysis through a user-friendly interface. Get detailed analysis of a selected database in an organised and visual manner. Perform customizable cleaning operations to produce a cleaned database. Created using Python and PyQt.
+    <td align="center" width="50%">This database cleaner provides an intuitive data cleaning and analysis tool developed with Python and PyQt, allowing you to effortlessly analyze, visualize, and customize database cleaning for a refined output.
     </td>
-    <td align="center" width="50%">The application consists of a range of tools that are designed for users with dyslexia. The tools assist the user when completing other reading or writing tasks. The application was created using Python with Tkinter.
+    <td align="center" width="50%">This dyslexia assistive application offers a variety of tools to support users with dyslexia in their reading and writing tasks. It's developed using Python and Tkinter.
     </td>
   </tr>
   <tr>
@@ -41,9 +41,9 @@ The table below showcases 6 key projects I have created. All projects can be fou
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">This interactive sandbox visualizer was made in Java using the Lightweight Java Game Library (LWJGL). Visually compare different search algorithms in a sandbox grid. Place walls and checkpoints to make the route task unique and watch the different algorithms go about finding their solutions.
+    <td align="center" width="50%">This interactive sandbox visualizer, created in Java using the Lightweight Java Game Library (LWJGL), lets you visually compare various search algorithms on a grid. Customize the challenge by placing walls and checkpoints, then observe how different algorithms find their solutions.
     </td>
-    <td align="center" width="50%">This application simplifies task management through its user-friendly interface, enabling users to stay organized while achieving their goals. Your can easily track your progress and manage tasks for today. It was developed with Python, it uses PyQt for frontend and SQLite for backend.
+    <td align="center" width="50%">This task manager streamlines task management with its user-friendly interface, helping users stay organized and reach their goals. Easily track progress and manage today's tasks. It was developed using Python, with PyQt for the frontend and SQLite for the backend.
     </td>
   </tr>
   <tr>
@@ -61,9 +61,9 @@ The table below showcases 6 key projects I have created. All projects can be fou
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">This backup manager makes syncing file systems across multiple drives and devices quick and simple. The user can create custom presets that make maintaining backups as easy as clicking a single button. The application has been made with Python with PyQt5 for the GUI.
+    <td align="center" width="50%">This backup manager simplifies syncing file systems across multiple drives and devices, providing quick and customizable solutions. Users can create custom presets for one-click backups. It's built using Python with a PyQt5 GUI.
     </td>
-    <td align="center" width="50%">This application enables real-time object detection through a live camera feed or local video file. Users can manage and review past events. This application was created using Python and Tkinter.
+    <td align="center" width="50%">This smart security system uses the YOLOv5 object detection model to enable real-time object detection from a live camera feed or local video file. Users can easily manage and review past events. The application was developed using Python and Tkinter.
     </td>
   </tr>
 </table>
