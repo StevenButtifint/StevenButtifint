@@ -70,8 +70,7 @@ The table below showcases key projects I have designed and created. All projects
 
 
 ### Remaining 2023 Goals:
-- Create an application that uses computer vision to assist with organisation.
-- Create an application that applies my digital forensics knowledge.
+- Create an application that uses computer vision to assist with organisation. (in progress)
 - Create an application that applies my microservices and docker knowledge.
 
 ### Completed 2023 Goals:
