@@ -2,8 +2,17 @@
 
 - ☀️ This profile showcases an array of personal code projects I have created in my free time ️.
 - 💬 <ins><b>Academic projects are not included</b></ins> but I am happy to answer questions about them. <br>&emsp; <i>Their topic areas include convolutional neural networks, computer vision, multi-cloud applications and novel view synthesis. </i>
+---
+### Recent Activity
 
-The table below showcases key projects I have designed and created. All projects can be found [here](https://github.com/StevenButtifint?tab=repositories).
+<div style="display: flex; flex-direction: row; gap: 10px; margin-top: 10px;">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stevenbuttifint&layout=compact&theme=dark&hide_border=true&bg_color=31313A&title_color=fafbfc&langs_count=8&card_width=280%" alt="Top Languages" width="30%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=stevenbuttifint&theme=github-compact&area=true&bg_color=31313A&color=fff&custom_title=Recent%20Activity&height=305&hide_border=true" alt="Recent Activity" width="69%">
+</div>
+
+### Recent Projects
+
+
 
 <table>
   <tr>
@@ -81,3 +90,4 @@ The table below showcases key projects I have designed and created. All projects
 
 [comment]: <> (references:)
 [comment]: <> (badges source: https://github.com/Ileriayo/markdown-badges)
+[comment]: <> (Language stats source: https://github.com/anuraghazra/github-readme-stats)
