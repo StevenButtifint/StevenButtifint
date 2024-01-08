@@ -1,7 +1,17 @@
 ## Hi there 👋
 
-- ☀️ This profile showcases an array of personal code projects I have created in my free time ️.
-- 💬 <ins><b>Academic projects are not included</b></ins> but I am happy to answer questions about them. <br>&emsp; <i>Their topic areas include convolutional neural networks, computer vision, multi-cloud applications and novel view synthesis. </i>
+#### This profile showcases personal code projects I have designed and created in my free time.
+
+---
+
+### Note on Academic Projects
+
+While academic projects are not public, I welcome questions about them, their topics include:
+
+- **Cloud** - Multicloud web application for performing analysis at scale with Google Cloud and AWS (EC2, Lambda and S3).
+- **Deep Learning & Computer Vision** - Innovative image authentication technique for CCTV using novel view synthesis.
+- **Convolutional Neural Networks** - Enhancing the resilience of image-based challenge-response authentication against neural networks.
+
 ---
 ### Recent Activity
 
