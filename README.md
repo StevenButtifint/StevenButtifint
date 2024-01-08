@@ -69,15 +69,15 @@ The table below showcases key projects I have designed and created. All projects
 </table>
 
 
-### Remaining 2023 Goals:
-- Create an application that uses computer vision to assist with organisation. (in progress)
-- Create an application that applies my microservices and docker knowledge.
+### 2024 Goals:
+- Create an application that streamlines the management of backups and incorporates cloud services. (in progress)
+- Create and deploy a motion-activated surveillance camera using cloud services and a Raspberry Pi.
 
 ### Completed 2023 Goals:
 :heavy_check_mark: Create an application that performs database analysis. <br>
 :heavy_check_mark: Create an application that uses real-time object detection. <br>
 :heavy_check_mark: Create an application that helps productivity and organisation. <br>
-:heavy_check_mark: Create an application that leverages AI to assist with dyslexia.
+:heavy_check_mark: Create an application that leverages AI to assist users with dyslexia.
 
 [comment]: <> (references:)
 [comment]: <> (badges source: https://github.com/Ileriayo/markdown-badges)
