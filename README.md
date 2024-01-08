@@ -2,8 +2,6 @@
 
 #### This profile showcases personal code projects I have designed and created in my free time.
 
----
-
 ### Note on Academic Projects
 
 While academic projects are not public, I welcome questions about them, their topics include:
@@ -12,7 +10,6 @@ While academic projects are not public, I welcome questions about them, their to
 - **Deep Learning & Computer Vision** - Innovative image authentication technique for CCTV using novel view synthesis.
 - **Convolutional Neural Networks** - Enhancing the resilience of image-based challenge-response authentication against neural networks.
 
----
 ### Recent Activity
 
 <div style="display: flex; flex-direction: row; gap: 10px; margin-top: 10px;">
