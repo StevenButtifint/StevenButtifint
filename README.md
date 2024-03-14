@@ -10,12 +10,7 @@ While academic projects are not public, I welcome questions about them, their to
 - **Deep Learning & Computer Vision** - Innovative image authentication technique for CCTV using novel view synthesis.
 - **Convolutional Neural Networks** - Enhancing the resilience of image-based challenge-response authentication against neural networks.
 
-### Recent Activity
 
-<div style="display: flex; flex-direction: row; gap: 10px; margin-top: 10px;">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stevenbuttifint&layout=compact&theme=dark&hide_border=true&bg_color=31313A&title_color=fafbfc&langs_count=8&card_width=280%" alt="Top Languages" width="30%">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=stevenbuttifint&theme=github-compact&area=true&bg_color=31313A&color=fff&custom_title=Recent%20Activity&height=305&hide_border=true" alt="Recent Activity" width="69%">
-</div>
 
 ### Recent Projects
 
