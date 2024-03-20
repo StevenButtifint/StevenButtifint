@@ -17,68 +17,90 @@ While academic projects are not public, I welcome questions about them, their to
 
 
 <table>
-  <tr>
-    <td align="center" width="50%"><a href="https://github.com/StevenButtifint/database-cleaner"><b>Database Cleaner</b></a>
+    <tr align="center" width="50%">
+        <td>
+            <a href="https://github.com/StevenButtifint/cloud-integrated-archiver-suite"><b>Cloud-Integrated Archiver Suite</b></a>
+        </td>
+        <td>
+            <a href="https://github.com/StevenButtifint/ai-photo-organiser"><b>AI Photo Organiser</b></a>
+        </td>
+    </tr>
+    <tr align="center" width="50%">
+        <td>
+            <a href="https://github.com/StevenButtifint/cloud-integrated-archiver-suite"><img src="https://github.com/StevenButtifint/cloud-integrated-archiver-suite/blob/main/demo/demo_1.gif?raw=true" alt="Cloud-Integrated Archiver Suite Demo"></a>
+            <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
+            <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" alt="JavaFX Badge">
+            <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+        </td>
+        <td>
+            <a href="https://github.com/StevenButtifint/ai-photo-organiser"><img src="https://github.com/StevenButtifint/ai-photo-organiser/blob/main/demo/demo_video.gif?raw=true" alt="AI Photo Organiser Demo"></a>
+            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+            <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron">
+            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript">
+        </td>
+    </tr>
+    <tr align="center" width="50%" >
+        <td>
+            The Cloud Integrated Archiver Suite is a feature-rich desktop application designed to streamline all data backup and archiving needs.
+        </td>
+        <td>
+            The AI Photo Organiser enables automatic organisation of your photo collections using artificial intelligence.
+        </td>
+    </tr>
+
+  <tr align="center" width="50%">
+    <td><a href="https://github.com/StevenButtifint/database-cleaner"><b>Database Cleaner</b></a>
     </td>
-    <td align="center" width="50%"><a href="https://github.com/StevenButtifint/ai-photo-organiser"><b>AI Photo Organiser</b></a>
+    <td><a href="https://github.com/StevenButtifint/task-manager"><b>Task Manager</b></a>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="50%">
-        <img src="https://github.com/stevenbuttifint/database-cleaner/blob/main/demo/analysis_demo.gif?raw=true"/>
+  <tr align="center" width="50%">
+    <td>
+        <a href="https://github.com/StevenButtifint/database-cleaner"><img src="https://github.com/stevenbuttifint/database-cleaner/blob/main/demo/analysis_demo.gif?raw=true" alt="Database Cleaner Demo"></a>
+        <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="pyQt">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
     </td>
-        <td align="center" width="50%">
-        <img src="https://github.com/StevenButtifint/ai-photo-organiser/blob/main/demo/demo_video.gif?raw=true"/>
+    <td>
+        <a href="https://github.com/StevenButtifint/task-manager"><img src="https://github.com/StevenButtifint/task-manager/blob/main/demo_images/demo_one.gif?raw=true" alt="Task Manager Demo"></a>
+        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+        <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="pyQt">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">This database cleaner provides an intuitive data cleaning and analysis tool developed with Python and PyQt, allowing you to effortlessly analyze, visualize, and customize database cleaning for a refined output.
     </td>
-    <td align="center" width="50%">The AI Photo Organiser enabled automatic organisation of your photo collections using artificial intelligence. I developed this desktop application using the Electron framework and Python.
+    <td align="center" width="50%">This task manager streamlines task management with its user-friendly interface, helping users stay organized and reach their goals. Easily track progress and manage today's tasks. It was developed using Python, with PyQt for the frontend and SQLite for the backend.
     </td>
   </tr>
-  <tr>
-    <td align="center" width="50%"><a href="https://github.com/StevenButtifint/dyslexia-assistive-application"><b>Dyslexia Assistive Application</b></a>
+  <tr align="center" width="50%">
+    <td><a href="https://github.com/StevenButtifint/dyslexia-assistive-application"><b>Dyslexia Assistive Application</b></a>
     </td>
-    <td align="center" width="50%"><a href="https://github.com/StevenButtifint/task-manager"><b>Task Manager</b></a>
+    <td><a href="https://github.com/StevenButtifint/bug-management-system"><b>Bug Management System</b></a>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="50%">
-        <img src="https://github.com/stevenbuttifint/dyslexia-assistive-application/blob/main/res/demo/demo_1.gif?raw=true"/>
+  <tr align="center" width="50%">
+    <td>
+        <a href="https://github.com/StevenButtifint/dyslexia-assistive-application"><img src="https://github.com/stevenbuttifint/dyslexia-assistive-application/blob/main/res/demo/demo_1.gif?raw=true" alt="Dyslexia Assistive Application Demo"></a>
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     </td>
-        <td align="center" width="50%">
-        <img src="https://github.com/StevenButtifint/task-manager/blob/main/demo_images/demo_one.gif?raw=true"/>
+        <td>
+        <a href="https://github.com/StevenButtifint/bug-management-system"><img src="https://raw.githubusercontent.com/stevenbuttifint/bug-management-system/main/res/demo/BMS_demo.gif" alt="Bug Manager Demo"></a>
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">This dyslexia assistive application offers a variety of tools to support users with dyslexia in their reading and writing tasks. It's developed using Python and Tkinter.
     </td>
-    <td align="center" width="50%">This task manager streamlines task management with its user-friendly interface, helping users stay organized and reach their goals. Easily track progress and manage today's tasks. It was developed using Python, with PyQt for the frontend and SQLite for the backend.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%"><a href="https://github.com/StevenButtifint/route-finding-visualizer"><b>Route Finding Visualizer</b></a>
-    </td>
-    <td align="center" width="50%"><a href="https://github.com/StevenButtifint/smart-security-system"><b>Smart Security System</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-        <img src="https://github.com/stevenbuttifint/route-finding-visualizer/blob/main/src/res/demoVideo.gif?raw=true"/>
-    </td>
-        <td align="center" width="50%">
-        <img src="https://github.com/StevenButtifint/smart-security-system/blob/main/demo/demo.JPG?raw=true"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">This interactive sandbox visualizer, created in Java using the Lightweight Java Game Library (LWJGL), lets you visually compare various search algorithms on a grid. Customize the challenge by placing walls and checkpoints, then observe how different algorithms find their solutions.
-    </td>
-    <td align="center" width="50%">This smart security system uses the YOLOv5 object detection model to enable real-time object detection from a live camera feed or local video file. Users can easily manage and review past events. The application was developed using Python and Tkinter.
+    <td align="center" width="50%">Full-stack bug management project featuring a React frontend and Node.js backend, facilitating bug management. Developed using the MVC software design pattern.
     </td>
   </tr>
 </table>
 
+Explore More Projects [here](https://github.com/StevenButtifint?tab=repositories).
 
 ### 2024 Goals:
 - Create an application that streamlines the management of backups and incorporates cloud services. (in progress)
