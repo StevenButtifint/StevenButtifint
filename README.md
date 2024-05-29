@@ -103,9 +103,9 @@ While academic projects are not public, I welcome questions about them, their to
 Explore More Projects [here](https://github.com/StevenButtifint?tab=repositories).
 
 ### 2024 Goals:
-- Create an application that streamlines the management of backups and incorporates cloud services. (in progress)
-- Create and deploy a motion-activated surveillance camera using cloud services and a Raspberry Pi.
-
+- Develop an application that streamlines the management of backups and incorporates cloud services. (in progress)
+- Develop a multimodal LLM-powered toolkit to enhance productivity.
+  
 ### Completed 2023 Goals:
 :heavy_check_mark: Create an application that performs database analysis. <br>
 :heavy_check_mark: Create an application that uses real-time object detection. <br>
